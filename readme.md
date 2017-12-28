@@ -1,3 +1,8 @@
+Link for Image: http://api.symfony.com/3.0/Symfony/Component/HttpFoundation/File/UploadedFile.html
+Intervention Image: http://image.intervention.io/
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
